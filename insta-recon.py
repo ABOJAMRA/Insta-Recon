@@ -33,7 +33,9 @@ def main():
 	# recon data
 	def recon():
 		global target, json_data, ReportList
-		print(g+"┌─["+pi+"Enter Username"+g+"]"+reset)
+		print(g+"┌─["+pi+"Enter Username"+jamra.394
+		
+		+"]"+reset)
 		target = input(g+"└──>>"+y)
 		print(reset)
 		req = requests.Session()
